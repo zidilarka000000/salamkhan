@@ -49,17 +49,17 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
+|__(~)    •||•THE - salman khan -OFFICAL------•◈•
 |__\~~) •||•RANA - RAJPUT---------------•◈•
 |__(-----\  •◈•------BLACK-TIGER--------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92salman
+\033[1;96mInstagram \033[1;93m: \033[1;salman
+\033[1;96mFacebook  \033[1;93m: \033[1; salman
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Thesalman/zero
 \033[1;91m======================================="""
 
 def tik():
@@ -80,15 +80,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
+\033[1;96mAuthor  \033[1;93m: \033[1;92msalman khan
 \033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
 \033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "salman"
+CorrectPassword = "salman"
 
 loop = 'true'
 while (loop == 'true'):
@@ -100,10 +100,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.facebook.com/salman.khan.king.00786')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.facebook.com/salman.khan.king.00786')
 
 def login():
 	os.system('clear')
